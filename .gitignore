@@ -1,0 +1,6 @@
+ols.json
+
+# Ignore examples dir
+examples/
+# But Unignore .odin files in it
+examples/!*.odin
